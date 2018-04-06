@@ -1,0 +1,27 @@
+theme: readthedocs
+site_name: SIMA Documentation
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\Skilder\RC\en-GB
+pages: 
+- 'New developments': 'index.md'
+- 'Subscribe me': 'Subscribe me.md'
+- 'What is Skilder': 'What is Skilder.md'
+- 'Getting started': 'Getting started.md'
+- 'How to manage the workshop': 'How to manage the workshop.md'
+- 'Create a new Skilder user': 'Create a new Skilder user.md'
+- 'How to manage the orders of the workshop': 'How to manage the orders of the workshop.md'
+- 'How to seach workshop orders': 'How to seach workshop orders.md'
+- 'Edit a Skilder user': 'Edit a Skilder user.md'
+- 'Visualiza orders assigned to a technician': 'Visualiza orders assigned to a technician.md'
+- 'Allocate time to an order': 'Allocate time to an order.md'
+- 'How to create a workshop order': 'How to create a workshop order.md'
+- 'How to check out the workshop reports': 'How to check out the workshop reports.md'
+- 'How to activate the quality check': 'How to activate the quality check.md'
+- 'How to activate the multiuser mode': 'How to activate the multiuser mode.md'
+- 'How to access the technician panel': 'How to access the technician panel.md'
+- 'How to manage my orders': 'How to manage my orders.md'
+- 'How to access the order detail': 'How to access the order detail.md'
+- 'How to block an order': 'How to block an order.md'
+- 'Train the facial recognition': 'Train the facial recognition.md'
+- 'Versions history': 'Versions history.md'
+

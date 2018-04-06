@@ -1,0 +1,27 @@
+theme: readthedocs
+site_name: SKILDER
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\Skilder\RC\es-ES
+pages: 
+- 'Novedades': 'index.md'
+- 'Subscribirme': 'Subscribirme.md'
+- '¿Qué es Skilder?': 'Que es Skilder.md'
+- 'Primeros pasos': 'Primeros pasos.md'
+- 'Gestionar el taller': 'Gestionar el taller.md'
+- 'Gestionar las órdenes del taller': 'Gestionar las ordenes del taller.md'
+- 'Buscar órdenes de taller': 'Buscar ordenes de taller.md'
+- 'Crear una orden de taller': 'Crear una orden de taller.md'
+- 'Acceder al detalle de la orden': 'Acceder al detalle de la orden.md'
+- 'Bloquear una orden': 'Bloquear una orden.md'
+- 'Imputar tiempo a una orden': 'Imputar tiempo a una orden.md'
+- 'Crear nuevo usuario de Skilder': 'Crear nuevo usuario de Skilder.md'
+- 'Editar un usuario de Skilder': 'Editar un usuario de Skilder.md'
+- 'Gestionar mis órdenes como técnico de taller': 'Gestionar mis ordenes como tecnico de taller.md'
+- 'Ver órdenes asignadas a un técnico': 'Ver ordenes asignadas a un tecnico.md'
+- 'Consultar los informes del taller': 'Consultar los informes del taller.md'
+- 'Activar el control de calidad': 'Activar el control de calidad.md'
+- 'Activar el modo Multiusuario': 'Activar el modo Multiusuario.md'
+- 'Acceder al panel del técnico': 'Acceder al panel del tecnico.md'
+- 'Entrenar el reconocimiento facial': 'Entrenar el reconocimiento facial.md'
+- 'Histórico de versiones': 'Historico de versiones.md'
+
